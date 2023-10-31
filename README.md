@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on too many things to count 🫠, cleaing up this neglected repo while I migrate from GitLab, being a dad, and surviving off 3 hours of sleep.
+I'm currently working on being a frequent late night commits contributor 🫠, cleaing up this neglected repo while I migrate from GitLab, being a dad, and surviving off 3 hours of sleep.
 
 
 # 💻 Tech Stack:
